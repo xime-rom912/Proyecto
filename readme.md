@@ -85,5 +85,5 @@ Este proyecto no tiene licencia
 
 ## Expresiones de gratitud
 
-* Fue un proyecyo para nuestra clase de Conceptos Avanzados de Programacion
+* Fue un proyecto para nuestra clase de Conceptos Avanzados de Programacion
 * Simpre nos gustaron los videojuegos de decisiones
