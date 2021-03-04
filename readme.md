@@ -81,7 +81,7 @@ Version 1.0.0.1
 
 ## Licencia
 
-Este proyexto no tiene licencia
+Este proyecto no tiene licencia
 
 ## Expresiones de gratitud
 
